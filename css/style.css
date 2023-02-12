@@ -1,5 +1,10 @@
+/************************Tag Selectors***********************/
 body {
-  background-color: #F6F7C1;
+  background-color: #F9F5E7;
+}
+
+img:hover {
+  background-color: #537FE7;
 }
 
 hr {
@@ -19,54 +24,12 @@ h3{
     color: #66BFBF;
 }
 
-.twitter {
+/************************Class Selectors***********************/
+.icons {
     width: 15px;
 }
 
-.linkedin {
-    width: 15px;
-}
-
-.instagram {
-  width: 15px;
-}
-
-.github {
-  width: 15px;
-}
-
-.html{
-  width: 15px;
-}
-
-.css{
-  width: 15px;
-}
-
-.js{
-  width: 15px;
-}
-
-.python{
-  width: 15px;
-}
-
-.c{
-  width: 15px;
-}
-
-.java{
-  width: 15px;
-}
-
-.console{
-  width: 15px;
-}
-
-.football{
-  width: 15px;
-}
-
-.f1{
-  width: 15px;
+/************************ID Selectors***********************/
+#heading1{
+  color: #537FE7;
 }
